@@ -1,0 +1,28 @@
+(base) desconcordia@Thelema:~/Documents/Gamepad$ python Gamepad.py
+Gamepad axis and button events...
+Press CTRL+C to exit
+
+Available device names:
+    Gamepad - Generic (numbers only)
+    MMP1251 - ModMyPi Raspberry Pi Wireless USB Gamepad
+    PS3 - PlayStation 3 controller
+    PS4 - PlayStation 4 controller
+    Precision - Logitech Precision Gamepad
+    Xbox360 - Xbox 360 controller
+    example - Enter the human readable name of the device here
+
+What device name are you using (leave blank if not in the list)
+? Precision
+
+Please connect your gamepad...
+Gamepad connected
+Logitech Precision Gamepad
+BUTTON,	  right,	True
+AXIS,	  up,	0.0
+AXIS,	  up,	-1.0
+AXIS,	  up,	0.0
+BUTTON,	  down,	True
+BUTTON,	  right,	False
+BUTTON,	  left,	True
+exit
+
